@@ -1,0 +1,13 @@
+scenario_name,university,university_profile,year,baseline_total_revenue,scenario_total_revenue,revenue_impact,revenue_impact_pct,international_enrolment,scenario_international_enrolment,international_tuition_dependency_ratio
+10_percent_international_enrolment_decline,Brock University,smaller_regional,2026,543595920.9,535997672.31,-7598248.59,-0.014,1735,1561.5,0.4857
+10_percent_international_enrolment_decline,Carleton University,mid_comprehensive,2026,979929320.78,948388540.502,-31540780.278,-0.0322,8271,7443.9,0.6347
+10_percent_international_enrolment_decline,Lakehead University,northern_regional,2026,355814812.32,347749684.188,-8065128.132,-0.0227,1406,1265.4,0.4796
+10_percent_international_enrolment_decline,Laurentian University,northern_regional,2026,336023391.24,331378775.616,-4644615.624,-0.0138,888,799.2,0.5566
+10_percent_international_enrolment_decline,McMaster University,large_research,2026,1628295763.12,1579853241.108,-48442522.012,-0.0298,12541,11286.9,0.6018
+10_percent_international_enrolment_decline,Queen's University,mid_research,2026,809084277.98,790475919.982,-18608357.998,-0.023,3049,2744.1,0.5171
+10_percent_international_enrolment_decline,Toronto Metropolitan University,mid_comprehensive,2026,707370981.0,692348424.0,-15022557.0,-0.0212,3300,2970.0,0.4601
+10_percent_international_enrolment_decline,University of Ottawa,large_comprehensive,2026,1880806055.18,1816157443.262,-64648611.918,-0.0344,17841,16056.9,0.7109
+10_percent_international_enrolment_decline,University of Toronto,large_research,2026,1996540513.12,1934036255.408,-62504257.712,-0.0313,13499,12149.1,0.6181
+10_percent_international_enrolment_decline,University of Waterloo,large_research,2026,1947098576.5,1867739491.45,-79359085.05,-0.0408,18158,16342.2,0.8009
+10_percent_international_enrolment_decline,Western University,large_research,2026,3180577504.75,3009460806.275,-171116698.475,-0.0538,28025,25222.5,0.8078
+10_percent_international_enrolment_decline,York University,large_comprehensive,2026,2494375630.68,2449588852.712,-44786777.968,-0.018,9668,8701.2,0.5808
