@@ -1,0 +1,133 @@
+university,year,avg_domestic_tuition,avg_international_tuition
+University of Toronto,2016,9292.94,54928.09
+University of Toronto,2017,9548.16,47816.45
+University of Toronto,2018,8111.99,49205.23
+University of Toronto,2019,7676.0,46138.24
+University of Toronto,2020,9124.0,51496.45
+University of Toronto,2021,8405.0,38739.92
+University of Toronto,2022,9197.0,46686.89
+University of Toronto,2023,7960.0,45922.78
+University of Toronto,2024,6874.0,58559.04
+University of Toronto,2025,8670.0,41425.23
+University of Toronto,2026,8821.0,46302.88
+University of Waterloo,2016,9636.36,39000.26
+University of Waterloo,2017,8368.44,56307.62
+University of Waterloo,2018,8150.69,58980.08
+University of Waterloo,2019,8987.0,63531.35
+University of Waterloo,2020,8373.0,34517.43
+University of Waterloo,2021,8717.0,53529.44
+University of Waterloo,2022,9106.0,53538.81
+University of Waterloo,2023,7701.0,47099.62
+University of Waterloo,2024,8473.0,33578.63
+University of Waterloo,2025,8860.0,37410.83
+University of Waterloo,2026,8436.0,43704.75
+McMaster University,2016,8752.52,60175.68
+McMaster University,2017,8112.11,40919.83
+McMaster University,2018,8899.8,61287.45
+McMaster University,2019,9360.0,38188.03
+McMaster University,2020,8052.0,56350.17
+McMaster University,2021,8651.0,56137.47
+McMaster University,2022,6877.0,40385.51
+McMaster University,2023,9421.0,54310.45
+McMaster University,2024,9249.0,42132.72
+McMaster University,2025,8663.0,42466.15
+McMaster University,2026,9269.0,38627.32
+Western University,2016,7878.93,37105.39
+Western University,2017,8275.71,42534.67
+Western University,2018,8925.13,37171.16
+Western University,2019,9426.0,49891.89
+Western University,2020,8446.0,38038.59
+Western University,2021,8112.0,60329.88
+Western University,2022,9004.0,44452.86
+Western University,2023,7920.0,44476.75
+Western University,2024,8077.0,34145.84
+Western University,2025,9445.0,60142.96
+Western University,2026,7941.0,61058.59
+Queen's University,2016,8838.58,55095.83
+Queen's University,2017,8948.97,37125.16
+Queen's University,2018,9476.43,36263.02
+Queen's University,2019,7593.0,60724.26
+Queen's University,2020,8665.0,44021.68
+Queen's University,2021,9397.0,43526.34
+Queen's University,2022,9149.0,56224.92
+Queen's University,2023,9243.0,43227.54
+Queen's University,2024,7784.0,50018.19
+Queen's University,2025,8439.0,32682.1
+Queen's University,2026,8147.0,61031.02
+York University,2016,8857.94,31838.9
+York University,2017,8873.82,54222.42
+York University,2018,8618.61,48336.17
+York University,2019,7735.0,35762.75
+York University,2020,7001.0,52399.61
+York University,2021,9160.0,36137.07
+York University,2022,9091.0,50013.7
+York University,2023,8425.0,42925.98
+York University,2024,7274.0,58910.87
+York University,2025,9194.0,35753.83
+York University,2026,7562.0,46324.76
+University of Ottawa,2016,8069.5,45891.78
+University of Ottawa,2017,8946.35,45020.18
+University of Ottawa,2018,7590.16,51269.38
+University of Ottawa,2019,9323.0,54669.19
+University of Ottawa,2020,8592.0,34147.12
+University of Ottawa,2021,7789.0,61322.48
+University of Ottawa,2022,8879.0,34898.97
+University of Ottawa,2023,9132.0,61281.12
+University of Ottawa,2024,8865.0,32779.77
+University of Ottawa,2025,9437.0,38709.64
+University of Ottawa,2026,7787.0,36235.98
+Carleton University,2016,9034.7,44314.21
+Carleton University,2017,8771.66,52156.01
+Carleton University,2018,8843.53,55780.52
+Carleton University,2019,8623.0,63073.42
+Carleton University,2020,7112.0,44323.19
+Carleton University,2021,8658.0,47124.17
+Carleton University,2022,7127.0,55633.61
+Carleton University,2023,9426.0,39046.11
+Carleton University,2024,8943.0,55257.1
+Carleton University,2025,8111.0,59625.06
+Carleton University,2026,8801.0,38134.18
+Toronto Metropolitan University,2016,7320.69,58998.55
+Toronto Metropolitan University,2017,7973.76,47298.15
+Toronto Metropolitan University,2018,8786.14,55741.34
+Toronto Metropolitan University,2019,8209.0,61383.33
+Toronto Metropolitan University,2020,9108.0,33365.26
+Toronto Metropolitan University,2021,7733.0,32562.12
+Toronto Metropolitan University,2022,8690.0,56471.88
+Toronto Metropolitan University,2023,8187.0,63566.21
+Toronto Metropolitan University,2024,8906.0,56965.94
+Toronto Metropolitan University,2025,6927.0,37068.81
+Toronto Metropolitan University,2026,9373.0,45522.9
+Brock University,2016,9460.26,36824.9
+Brock University,2017,8642.06,50706.02
+Brock University,2018,7765.25,50290.36
+Brock University,2019,8889.0,37518.38
+Brock University,2020,8500.0,56703.26
+Brock University,2021,8201.0,45798.5
+Brock University,2022,9115.0,47526.6
+Brock University,2023,8840.0,46727.73
+Brock University,2024,9481.0,35349.5
+Brock University,2025,8399.0,54074.1
+Brock University,2026,7492.0,43793.94
+Lakehead University,2016,8425.43,45761.84
+Lakehead University,2017,7163.51,43811.68
+Lakehead University,2018,6870.81,56215.37
+Lakehead University,2019,7550.0,48565.09
+Lakehead University,2020,7164.0,38450.62
+Lakehead University,2021,7281.0,47116.89
+Lakehead University,2022,9143.0,37712.9
+Lakehead University,2023,8464.0,33901.0
+Lakehead University,2024,6824.0,47189.22
+Lakehead University,2025,6930.0,62071.86
+Lakehead University,2026,6901.0,57362.22
+Laurentian University,2016,9650.79,51251.01
+Laurentian University,2017,8013.85,51014.17
+Laurentian University,2018,7034.71,33968.9
+Laurentian University,2019,8308.0,34777.76
+Laurentian University,2020,9313.0,63225.71
+Laurentian University,2021,8091.0,44452.33
+Laurentian University,2022,8361.0,57948.71
+Laurentian University,2023,7577.0,63884.81
+Laurentian University,2024,7134.0,41492.75
+Laurentian University,2025,6936.0,43781.89
+Laurentian University,2026,7789.0,52304.23
