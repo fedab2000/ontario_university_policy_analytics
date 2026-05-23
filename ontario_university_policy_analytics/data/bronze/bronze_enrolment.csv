@@ -1,0 +1,136 @@
+university,year,university_profile,domestic_enrolment,international_enrolment,graduate_share,professional_program_share
+University of Toronto,2016,large_research,43795.0,7860,0.239,0.102
+University of Toronto,2017,large_research,44070.0,7921,0.187,0.06
+University of Toronto,2018,large_research,43734.0,8691,0.264,0.171
+Univ. of Toronto,2019,large_research,48461.0,10649,0.121,0.043
+University of Toronto,2020,large_research,37836.0,10269,0.129,0.176
+University of Toronto,2021,large_research,44562.0,9491,0.244,0.094
+University of Toronto,2022,large_research,45819.0,11100,0.292,0.135
+University of Toronto,2023,large_research,44635.0,10611,0.308,0.119
+University of Toronto,2024,large_research,45750.0,7378,0.168,0.136
+University of Toronto,2025,large_research,56321.0,8693,0.198,0.066
+University of Toronto,2026,large_research,43776.0,13499,0.234,0.044
+University of Waterloo,2016,large_research,34873.0,12675,0.138,0.067
+University of Waterloo,2017,large_research,35079.0,13092,0.198,0.078
+University of Waterloo,2018,large_research,34852.0,14984,0.176,0.116
+University of Waterloo,2019,large_research,36340.0,13834,0.135,0.178
+University of Waterloo,2020,large_research,34292.0,16581,0.121,0.154
+University of Waterloo,2021,large_research,39756.0,18818,0.274,0.05
+University of Waterloo,2022,large_research,,15368,0.293,0.127
+University of Waterloo,2023,large_research,34720.0,16408,0.182,0.086
+University of Waterloo,2024,large_research,41708.0,14265,0.214,0.057
+University of Waterloo,2025,large_research,43748.0,13710,0.274,0.109
+University of Waterloo,2026,large_research,23389.0,18158,0.142,0.044
+McMaster University,2016,large_research,50403.0,8757,0.228,0.068
+McMaster University,2017,large_research,50929.0,9364,0.259,0.163
+McMaster University,2018,large_research,48564.0,10227,0.141,0.104
+McMaster University,2019,large_research,50483.0,8472,0.297,0.085
+McMaster University,2020,large_research,50828.0,9131,0.301,0.078
+McMaster University,2021,large_research,46429.0,8944,0.153,0.115
+McMaster University,2022,large_research,64892.0,11008,0.174,0.074
+McMaster University,2023,large_research,50157.0,10212,0.232,0.097
+McMaster University,2024,large_research,53601.0,8182,0.259,0.14
+McMaster University,2025,large_research,50424.0,7600,0.247,0.135
+McMaster University,2026,large_research,34579.0,12541,0.239,0.051
+Western University,2016,large_research,40688.0,15958,0.317,0.096
+Western University,2017,large_research,41388.0,17023,0.15,0.111
+Western University,2018,large_research,42515.0,18006,0.185,0.071
+Western University,2019,large_research,43685.0,19506,0.19,0.053
+Western University,2020,large_research,41576.0,20892,0.224,0.157
+Western University,2021,large_research,46950.0,23440,0.162,0.116
+Western University,2022,large_research,38191.0,24579,0.155,0.178
+Western University,2023,large_research,34624.0,22418,0.319,0.175
+Western University,2024,large_research,49966.0,16171,0.176,0.138
+Western University,2025,large_research,44482.0,14446,0.298,0.159
+Western University,2026,large_research,51262.0,28025,0.308,0.176
+Queen's University,2016,mid_research,18961.0,7973,0.25,0.071
+Queen's University,2017,mid_research,18780.0,8582,0.185,0.145
+Queen's University,2018,mid_research,19934.0,8984,0.252,0.12
+Queen's University,2019,mid_research,19165.0,8333,0.173,0.074
+Queen's University,2020,mid_research,19467.0,10014,0.298,0.128
+Queen's University,2021,mid_research,19754.0,13024,0.235,0.109
+Queen's University,2022,mid_research,21260.0,8499,0.176,0.043
+Queen's University,2023,mid_research,17514.0,12332,0.308,0.174
+Queen's University,2024,mid_research,19572.0,10320,0.306,0.1
+Queen's University,2025,mid_research,18936.0,9265,0.29,0.084
+Queen's University,2026,mid_research,21332.0,3049,0.259,0.12
+York University,2016,large_comprehensive,28863.0,12455,0.171,0.081
+York University,2017,large_comprehensive,29552.0,12791,0.147,0.139
+York University,2018,large_comprehensive,27469.0,14092,0.204,0.076
+York University,2019,large_comprehensive,28415.0,14534,0.121,0.128
+York University,2020,large_comprehensive,28631.0,14564,0.297,0.044
+York University,2021,large_comprehensive,26077.0,22445,0.254,0.086
+York University,2022,large_comprehensive,30765.0,16751,0.17,0.045
+York University,2023,large_comprehensive,31896.0,10048,0.185,0.156
+York University,2024,large_comprehensive,36502.0,11421,0.202,0.138
+York University,2025,large_comprehensive,30478.0,8943,0.269,0.075
+York University,2026,large_comprehensive,42750.0,9668,0.303,0.102
+University of Ottawa,2016,large_comprehensive,38407.0,12805,0.223,0.132
+University of Ottawa,2017,large_comprehensive,39858.0,13144,0.13,0.119
+University of Ottawa,2018,large_comprehensive,38081.0,13702,0.139,0.084
+University of Ottawa,2019,large_comprehensive,38190.0,16531,0.213,0.131
+University of Ottawa,2020,large_comprehensive,38740.0,16534,0.123,0.171
+University of Ottawa,2021,large_comprehensive,52711.0,16216,0.257,0.126
+University of Ottawa,2022,large_comprehensive,41795.0,20552,0.28,0.135
+University of Ottawa,2023,large_comprehensive,35641.0,18402,0.282,0.155
+University of Ottawa,2024,large_comprehensive,48076.0,11844,0.161,0.078
+University of Ottawa,2025,large_comprehensive,37785.0,8252,0.244,0.087
+University of Ottawa,2026,large_comprehensive,33764.0,17841,0.188,0.076
+Carleton University,2016,mid_comprehensive,17974.0,5767,0.307,0.045
+Carleton University,2017,mid_comprehensive,18262.0,6008,0.23,0.099
+Carleton University,2018,mid_comprehensive,19503.0,7137,0.266,0.058
+Carleton University,2019,mid_comprehensive,18898.0,5492,0.293,0.119
+Carleton University,2020,mid_comprehensive,19590.0,5779,0.268,0.073
+Carleton University,2021,mid_comprehensive,19785.0,4577,0.219,0.095
+Carleton University,2022,mid_comprehensive,17693.0,7010,0.131,0.174
+Carleton University,2023,mid_comprehensive,18049.0,10166,0.311,0.135
+Carleton University,2024,mid_comprehensive,15777.0,1828,0.138,0.124
+Carleton University,2025,mid_comprehensive,15272.0,4322,0.276,0.056
+Carleton University,2026,mid_comprehensive,20622.0,8271,0.314,0.136
+Toronto Metropolitan University,2016,mid_comprehensive,14953.0,5039,0.205,0.071
+Toronto Metropolitan University,2017,mid_comprehensive,15311.0,5218,0.149,0.112
+Toronto Metropolitan University,2018,mid_comprehensive,15435.0,4904,0.293,0.163
+Toronto Metropolitan University,2019,mid_comprehensive,15553.0,5627,0.238,0.089
+Toronto Metropolitan University,2020,mid_comprehensive,15257.0,7912,0.196,0.139
+Toronto Metropolitan University,2021,mid_comprehensive,14491.0,4991,0.207,0.076
+Toronto Metropolitan University,2022,mid_comprehensive,18273.0,4156,0.268,0.147
+Toronto Metropolitan University,2023,mid_comprehensive,16940.0,8323,0.256,0.073
+Toronto Metropolitan University,2024,mid_comprehensive,14728.0,2217,0.226,0.101
+Toronto Metropolitan University,2025,mid_comprehensive,11781.0,6392,0.305,0.169
+Toronto Metropolitan University,2026,mid_comprehensive,18804.0,3300,0.153,0.07
+Brock University,2016,smaller_regional,7486.0,1896,0.267,0.168
+Brock University,2017,smaller_regional,7427.0,1963,0.187,0.064
+Brock University,2018,smaller_regional,7281.0,2330,0.166,0.077
+Brock University,2019,smaller_regional,7135.0,1977,0.211,0.045
+Brock University,2020,smaller_regional,7378.0,1755,0.241,0.078
+Brock University,2021,smaller_regional,7705.0,2671,0.236,0.169
+Brock University,2022,smaller_regional,6871.0,2578,0.202,0.149
+Brock University,2023,smaller_regional,8258.0,2570,0.195,0.145
+Brock University,2024,smaller_regional,9392.0,1385,0.133,0.045
+Brock University,2025,smaller_regional,8329.0,1299,0.27,0.168
+Brock University,2026,smaller_regional,10737.0,1735,0.196,0.074
+Lakehead University,2016,northern_regional,10600.0,2401,0.161,0.163
+Lakehead University,2017,northern_regional,10021.0,2483,0.286,0.083
+Lakehead University,2018,northern_regional,10554.0,3156,0.204,0.15
+Lakehead University,2019,northern_regional,11538.0,2908,0.301,0.126
+Lakehead University,2020,northern_regional,10985.0,2970,0.247,0.118
+Lakehead University,2021,northern_regional,11280.0,2741,0.229,0.103
+Lakehead University,2022,northern_regional,10809.0,3530,0.225,0.138
+Lakehead University,2023,northern_regional,10938.0,4732,0.288,0.148
+Lakehead University,2024,northern_regional,9061.0,3356,0.236,0.088
+Lakehead University,2025,northern_regional,7973.0,3955,0.2,0.138
+Lakehead University,2026,northern_regional,12680.0,1406,0.295,0.112
+Laurentian University,2016,northern_regional,4671.0,2469,0.284,0.088
+Laurentian University,2017,northern_regional,4688.0,2572,0.23,0.115
+Laurentian University,2018,northern_regional,4880.0,2637,0.146,0.086
+Laurentian University,2019,northern_regional,4625.0,2729,0.216,0.136
+Laurentian University,2020,northern_regional,4413.0,2963,0.195,0.04
+Laurentian University,2021,northern_regional,4938.0,3097,0.227,0.169
+Laurentian University,2022,northern_regional,5317.0,2680,0.226,0.141
+Laurentian University,2023,northern_regional,5191.0,2714,0.289,0.145
+Laurentian University,2024,northern_regional,4204.0,1422,0.267,0.066
+Laurentian University,2025,northern_regional,6063.0,2687,0.227,0.073
+Laurentian University,2026,northern_regional,4751.0,888,0.25,0.107
+York University,2017,large_comprehensive,29552.0,12791,0.147,0.139
+Carleton University,2022,mid_comprehensive,17693.0,7010,0.131,0.174
+University of Waterloo,2024,large_research,41708.0,14265,0.214,0.057

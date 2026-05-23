@@ -1,0 +1,12 @@
+year,inflation_rate,provincial_budget_growth,tuition_policy,international_policy_pressure
+2016,0.061,0.012,market_growth,0
+2017,0.041,0.007,market_growth,0
+2018,0.045,-0.005,market_growth,0
+2019,0.034,0.043,tuition_freeze,0
+2020,0.026,0.024,tuition_freeze,0
+2021,0.03,0.031,tuition_freeze,0
+2022,0.019,0.043,tuition_freeze,0
+2023,0.037,-0.001,tuition_freeze,0
+2024,0.016,-0.005,tuition_freeze,1
+2025,0.041,0.005,tuition_freeze,1
+2026,0.058,0.011,tuition_freeze,1
