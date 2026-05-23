@@ -1,0 +1,13 @@
+scenario_name,university,university_profile,year,domestic_tuition_revenue,domestic_tuition_revenue_at_3pct_growth,foregone_domestic_tuition_revenue,inflation_rate,inflation_cost_pressure
+domestic_tuition_freeze_inflation_pressure,Brock University,smaller_regional,2026,80441604.0,82854852.12,2413248.12,0.06,31528563.41
+domestic_tuition_freeze_inflation_pressure,Carleton University,mid_comprehensive,2026,181494222.0,186939048.66,5444826.66,0.06,56835900.61
+domestic_tuition_freeze_inflation_pressure,Lakehead University,northern_regional,2026,87504680.0,90129820.4,2625140.4,0.06,20637259.11
+domestic_tuition_freeze_inflation_pressure,Laurentian University,northern_regional,2026,37005539.0,38115705.17,1110166.17,0.06,19489356.69
+domestic_tuition_freeze_inflation_pressure,McMaster University,large_research,2026,320512751.0,330128133.53,9615382.53,0.06,94441154.26
+domestic_tuition_freeze_inflation_pressure,Queen's University,mid_research,2026,173791804.0,179005558.12,5213754.12,0.06,46926888.12
+domestic_tuition_freeze_inflation_pressure,Toronto Metropolitan University,mid_comprehensive,2026,176249892.0,181537388.76,5287496.76,0.06,41027516.9
+domestic_tuition_freeze_inflation_pressure,University of Ottawa,large_comprehensive,2026,262920268.0,270807876.04,7887608.04,0.06,109086751.2
+domestic_tuition_freeze_inflation_pressure,University of Toronto,large_research,2026,386148096.0,397732538.88,11584442.88,0.06,115799349.76
+domestic_tuition_freeze_inflation_pressure,University of Waterloo,large_research,2026,197309604.0,203228892.12,5919288.12,0.06,112931717.44
+domestic_tuition_freeze_inflation_pressure,Western University,large_research,2026,407071542.0,419283688.26,12212146.26,0.06,184473495.28
+domestic_tuition_freeze_inflation_pressure,York University,large_comprehensive,2026,323275500.0,332973765.0,9698265.0,0.06,144673786.58

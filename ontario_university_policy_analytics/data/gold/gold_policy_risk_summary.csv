@@ -1,0 +1,13 @@
+university,university_profile,year,total_enrolment,international_share,grant_dependency_ratio,international_tuition_dependency_ratio,funding_per_student,high_international_exposure_flag,high_grant_dependency_flag,policy_risk_score,policy_risk_level
+University of Waterloo,large_research,2026,41547.0,0.437,0.4709,0.8009,21224.14,1,0,0.5711,High
+Western University,large_research,2026,79287.0,0.3535,0.3154,0.8078,12306.88,1,0,0.5049,High
+University of Ottawa,large_comprehensive,2026,51605.0,0.3457,0.4907,0.7109,16977.94,1,0,0.5025,High
+Carleton University,mid_comprehensive,2026,28893.0,0.2863,0.4812,0.6347,15951.44,0,0,0.4472,High
+McMaster University,large_research,2026,47120.0,0.2662,0.4939,0.6018,16674.03,0,0,0.4292,High
+York University,large_comprehensive,2026,52418.0,0.1844,0.6747,0.5808,30508.81,0,1,0.4212,High
+University of Toronto,large_research,2026,57275.0,0.2357,0.4687,0.6181,15574.62,0,0,0.4161,High
+Laurentian University,northern_regional,2026,5639.0,0.1575,0.7425,0.5566,42666.29,0,1,0.4142,High
+Brock University,smaller_regional,2026,12472.0,0.1391,0.6937,0.4857,28409.53,0,1,0.3713,Medium
+Queen's University,mid_research,2026,24381.0,0.1251,0.5296,0.5171,16621.23,0,1,0.3432,Medium
+Toronto Metropolitan University,mid_comprehensive,2026,22104.0,0.1493,0.5244,0.4601,16286.54,0,1,0.3331,Medium
+Lakehead University,northern_regional,2026,14086.0,0.0998,0.5021,0.4796,12036.15,0,1,0.3132,Medium
